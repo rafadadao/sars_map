@@ -1,6 +1,8 @@
 # sars_map
 Incidence of Severe acute respiratory syndrome (SARS) in São Paulo Metropolitan Region after the 2020 Brazil election.
 
+## If you want you just check the map open the file sars_map.png.
+
 Theme: Severe acute respiratory syndrome (SARS) - Includes COVID-19 
 
 Source: https://opendatasus.saude.gov.br/dataset/bd-srag-2020 
